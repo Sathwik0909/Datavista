@@ -1,0 +1,153 @@
+[
+  {
+    "handle_id": "user_1",
+    "posts": [
+      {
+        "post_id": 1,
+        "post_type": "static",
+        "likes": 982673,
+        "views": 211153,
+        "shares": 46787,
+        "comments": 2879,
+        "saves": null,
+        "timestamp": "2023-02-05"
+      },
+      {
+        "post_id": 2,
+        "post_type": "carousel",
+        "likes": 251032,
+        "views": 914177,
+        "shares": 100529,
+        "comments": 2354,
+        "saves": 198621,
+        "timestamp": "2023-06-09"
+      },
+      {
+        "post_id": 3,
+        "post_type": "reels",
+        "likes": 758274,
+        "views": 790212,
+        "shares": 816865,
+        "comments": 576,
+        "saves": 209365,
+        "timestamp": "2023-08-30"
+      },
+
+      {
+        "post_id": 100,
+        "post_type": "static",
+        "likes": 782570,
+        "views": 189447,
+        "shares": 485886,
+        "comments": 3970,
+        "saves": null,
+        "timestamp": "2023-01-16"
+      }
+    ]
+  },
+  {
+    "handle_id": "user_2",
+    "posts": [
+      {
+        "post_id": 101,
+        "post_type": "reels",
+        "likes": 153677,
+        "views": 208580,
+        "shares": 570704,
+        "comments": 2716,
+        "saves": 474097,
+        "timestamp": "2023-10-17"
+      },
+
+      {
+        "post_id": 185,
+        "post_type": "static",
+        "likes": 296126,
+        "views": 270588,
+        "shares": 985427,
+        "comments": 4931,
+        "saves": null,
+        "timestamp": "2023-02-06"
+      },
+      {
+        "post_id": 186,
+        "post_type": "carousel",
+        "likes": 698122,
+        "views": 756816,
+        "shares": 967165,
+        "comments": 3845,
+        "saves": 21558,
+        "timestamp": "2023-02-25"
+      },
+      {
+        "post_id": 187,
+        "post_type": "static",
+        "likes": 574957,
+        "views": 91823,
+        "shares": 480509,
+        "comments": 5337,
+        "saves": null,
+        "timestamp": "2023-11-01"
+      },
+
+      {
+        "post_id": 200,
+        "post_type": "reels",
+        "likes": 656882,
+        "views": 509906,
+        "shares": 472899,
+        "comments": 4522,
+        "saves": 188457,
+        "timestamp": "2023-04-23"
+      }
+    ]
+  },
+
+
+  {
+    "handle_id": "user_3",
+    "posts": [
+      {
+        "post_id": 1,
+        "post_type": "static",
+        "likes": 982673,
+        "views": 211153,
+        "shares": 46787,
+        "comments": 2879,
+        "saves": null,
+        "timestamp": "2023-02-05"
+      },
+      {
+        "post_id": 2,
+        "post_type": "carousel",
+        "likes": 251032,
+        "views": 914177,
+        "shares": 100529,
+        "comments": 2354,
+        "saves": 198621,
+        "timestamp": "2023-06-09"
+      },
+      {
+        "post_id": 3,
+        "post_type": "reels",
+        "likes": 758274,
+        "views": 790212,
+        "shares": 816865,
+        "comments": 576,
+        "saves": 209365,
+        "timestamp": "2023-08-30"
+      },
+
+      {
+        "post_id": 100,
+        "post_type": "static",
+        "likes": 782570,
+        "views": 189447,
+        "shares": 485886,
+        "comments": 3970,
+        "saves": null,
+        "timestamp": "2023-01-16"
+      }
+    ]
+  }
+]
