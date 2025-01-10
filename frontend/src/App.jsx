@@ -11,7 +11,7 @@ import AIChat from './components/Chat';
 import './App.css';
 
 const COLORS = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A', '#20B2AA'];
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = '/api';
 
 const theme = createTheme({
   palette: {
